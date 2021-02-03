@@ -1,0 +1,18 @@
+name: rl-environment
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - matplotlib
+  - graphviz
+  - python-graphviz
+  - scikit-learn
+  - scikit-image
+  - pytorch
+  - pip
+  - pyvirtualdisplay
+  - gym
+  - gym-atari
+  - gym-box2d
+  - gym-classic_control
